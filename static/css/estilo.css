@@ -1,0 +1,67 @@
+*{
+    background-color: rgb(175, 212, 200);
+            font-family: "Matemasie", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        margin: 10px;
+        padding: 10px;
+}
+.head{
+
+}
+
+.header{
+
+}
+
+
+.body{
+
+}
+
+
+.producto{
+
+}
+
+.formulario{
+
+    }
+
+    
+
+.nosotros{
+        
+    }     
+        
+
+
+h2:hover{
+
+   animation: ; <h2 class="animate__animated animate__bounce">An animated element</h2> EMPRESA LIDER EN SERVICIOS
+
+}
+
+a:hover{
+    background-color: cyan;
+    
+}
+
+a{
+text-decoration: none;
+}
+
+
+footer {
+    background-color: black solido 20px;
+    color:rgb(190, 150, 20);
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.container{
+    display: flex;
+
+}
